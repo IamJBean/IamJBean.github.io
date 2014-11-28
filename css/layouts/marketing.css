@@ -197,11 +197,11 @@ a.subtle {
 .content-wrapper {
     /* These styles are required for the "scroll-over" effect */
     position: absolute;
-    top: 60%;
     width: 100%;
     min-height: 12%;
     z-index: 2;
     background: white;
+    margin: auto;
 
 }
 
@@ -228,13 +228,17 @@ a.subtle {
 
 /* This is the class used for the dark-background areas. */
 .ribbon {
-    background: #2d3e50;
+    background: #f46652;
     color: #aaa;
 }
 
 /* This is the class used for the footer */
 .footer {
     background: #111;
+}
+
+.center {
+    margin: auto;
 }
 
 /*
