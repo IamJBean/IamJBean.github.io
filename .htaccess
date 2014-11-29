@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName restricted area
-AuthUserFile IamJBean.github.io/.htpasswd
-require valid-user
