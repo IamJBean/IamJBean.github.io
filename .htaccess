@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName restricted area
-AuthUserFile https://github.com/IamJBean/IamJBean.github.io/blob/master/.htpasswd
+AuthUserFile IamJBean.github.io/.htpasswd
 require valid-user
