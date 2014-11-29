@@ -231,6 +231,10 @@ a.subtle {
     background: #f46652;
     color: #aaa;
 }
+.ribbon-cta {
+    background: #e85742;
+    color: #aaa;
+}
 
 /* This is the class used for the footer */
 .footer {
@@ -303,4 +307,23 @@ a.subtle {
 }
 .headshot {
     max-width: 11em;
+}
+.pure-submit input[type="submit"] {
+    display: inline-block;
+    background: #016b98;
+    padding: 8px 25px 8px 25px;
+    margin-top: 5%;
+    max-width: 120px;
+    color: #f9f9f9;
+    font-family: "proxima-nova", Helvetica, Arial, Sans-serif;
+    -webkit-transition: all 0.25s;
+    -moz-transition: all 0.25s;
+    -ms-transition: all 0.25s;
+    -o-transition: all 0.25s;
+    transition: all 0.25s;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    -webkit-appearance: none;
+    border: 0px;
 }
