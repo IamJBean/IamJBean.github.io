@@ -12,6 +12,7 @@ body {
     line-height: 1.7em;
     color: #7f8c8d;
     font-size: 13px;
+    background-color: #31c2a8 !important;
 }
 
 h1,
@@ -381,3 +382,11 @@ h4{
   .info {
     display:  none !important;
   }
+
+  .l-box-lrg {
+    border-bottom: none !important;
+  }
+
+.form {
+  margin-top: -10px !important;
+}
