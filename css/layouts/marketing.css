@@ -375,3 +375,12 @@ h4{
       font-size: 1.2rem;
     }
   }
+
+  /*WUFOO FIXES*/
+ #container {
+    display: none !important;
+  }
+
+  .wufoo {
+    color:  #ffffff;
+  }
