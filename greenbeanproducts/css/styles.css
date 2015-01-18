@@ -1,3 +1,6 @@
+#brand {
+  font-weight: 100;
+}
 .hero {
 	background: url(../img/writing-system-hero.png) no-repeat center center !important; 
 	-webkit-background-size: cover;
@@ -27,7 +30,7 @@
   padding-top: 10em;
 }
 .pricing-cta {
-  background-color: #00cc99 !important; 
+  background-color: #222222 !important; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
     -o-background-size: cover;
@@ -36,6 +39,7 @@
     height: 15vh;
   padding-top: 1em;
   text-align: center;
+  color: #ffffff;
 }
 
 #spacer {
@@ -191,8 +195,27 @@
 }
 .success {
 	padding-top: 27em;
-	text-align: center;
+	text-align: left;
 }
 .centered {
   text-align: center;
 }
+
+/*---- LINK STYLES -----*/
+
+#click, #click:link, #click:visited {
+  color: #cc0a3d;
+  display: inline-block;
+  text-decoration: none;
+  -webkit-transition: color 0.4s, background-color 0.4s, border 0.4s;
+  transition: color 0.4s, background-color 0.4s, border 0.4s; }
+
+#click:hover, #click:focus {
+  color: #af002d;
+  -webkit-transition: background-color 0.3s, color 0.3s, border 0.3s;
+  transition: background-color 0.3s, color 0.3s, border 0.3s; }
+
+#click:active {
+  color: #820022;
+  -webkit-transition: background-color 0.3s, color 0.3s, border 0.3s;
+  transition: background-color 0.3s, color 0.3s, border 0.3s; }
