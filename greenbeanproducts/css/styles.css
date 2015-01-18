@@ -16,6 +16,32 @@
   	min-height: 600px;
   	height: 50vh;
 }
+.pricing-hero {
+  background: url(../img/writer-1.png) no-repeat center center !important; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 400px;
+    height: 50vh;
+  padding-top: 10em;
+}
+.pricing-cta {
+  background-color: #00cc99 !important; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 100px;
+    height: 15vh;
+  padding-top: 1em;
+  text-align: center;
+}
+
+#spacer {
+  margin-top: 0px !important;
+  margin-bottom: 0px !important;
+}
 .resources-grid {
 	background: url(../img/grid-box.png) no-repeat top center !important; 
 	-webkit-background-size: cover;
@@ -138,6 +164,13 @@
 	font-size: 1.6em;
 	font-weight: 100;
 	padding-top: 4em;
+}
+.pricing-header {
+  color: #222222 !important;
+  line-height: 1.6em;
+  font-size: 1.6em;
+  font-weight: 100;
+  padding-top: 4em;
 }
 
 .about {
