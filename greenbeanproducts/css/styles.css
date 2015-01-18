@@ -1,0 +1,165 @@
+.hero {
+	background: url(../img/writing-system-hero.png) no-repeat center center !important; 
+	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	min-height: 600px;
+  	height: 100vh;
+}
+.about {
+	background: url(../img/writer-1.png) no-repeat center center !important; 
+	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	min-height: 600px;
+  	height: 50vh;
+}
+.resources-grid {
+	background: url(../img/grid-box.png) no-repeat top center !important; 
+	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	min-height: 500px;
+  	height: 70vh;
+  	padding-top: 12em;
+  	border-bottom: 1px solid #dfdfdf;
+}
+.resources-vertically-lined {
+	background: url(../img/vertically-lined.png) no-repeat top center !important; 
+	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	min-height: 500px;
+  	height: 70vh;
+  	padding-top: 12em;
+  	border-bottom: 1px solid #dfdfdf;
+}
+.resources-horizontally-lined {
+	background: url(../img/horizontally-lined.png) no-repeat top center !important; 
+	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	min-height: 500px;
+  	height: 70vh;
+  	padding-top: 12em;
+  	border-bottom: 1px solid #dfdfdf;
+}
+.resources-graph {
+	background: url(../img/graph-paper.png) no-repeat top center !important; 
+	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	min-height: 500px;
+  	height: 70vh;
+  	padding-top: 12em;
+  	border-bottom: 1px solid #dfdfdf;
+}
+.resources-upper-case {
+	background: url(../img/upper-case.png) no-repeat top center !important; 
+	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	min-height: 500px;
+  	height: 70vh;
+  	padding-top: 12em;
+  	border-bottom: 1px solid #dfdfdf;
+}
+
+.resources-lower-case {
+  background: url(../img/lower-case.png) no-repeat top center !important; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 500px;
+    height: 70vh;
+    padding-top: 12em;
+    border-bottom: 1px solid #dfdfdf;
+}
+.resources-instructions {
+  background: url(../img/instructions.png) no-repeat top center !important; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 500px;
+    height: 70vh;
+    padding-top: 12em;
+    border-bottom: 1px solid #dfdfdf;
+}
+.success {
+	background: url(../img/writer-success.png) no-repeat top center !important; 
+	-webkit-background-size: cover;
+ 	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	min-height: 600px;
+  	height: 90vh;
+}
+.download-cta {
+  background-color: #b4e849!important; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 300px;
+    height: 30vh;
+    padding-top: 5em;
+}
+.resources-header {
+  background-color: #bddfb3!important; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    min-height: 300px;
+    height: 30vh;
+    padding-top: 5em;
+}
+#cta {
+  margin-top: 2em !important;
+}
+.hero-text {
+	color: #ffffff !important;
+	line-height: 1.6em;
+	font-size: 1.6em;
+	font-weight: 100;
+}
+.learn-header {
+	color: #222222 !important;
+	line-height: 1.6em;
+	font-size: 1.6em;
+	font-weight: 100;
+	padding-top: 4em;
+}
+
+.about {
+	padding-top: 14em;
+}
+.success {
+	background-color: #00cc99;
+}
+.img-center {margin:0 auto;}
+
+/*----- BUTTON STYLES -----*/
+
+.main-cta {
+	background-color: #45BF55 !important;
+}
+.helium-buy-now {
+	background-color: #1bbf9c !important;
+}
+.success {
+	padding-top: 27em;
+	text-align: center;
+}
+.centered {
+  text-align: center;
+}
